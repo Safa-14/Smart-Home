@@ -6,8 +6,6 @@
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
-* [Project status](#project-status)
-* [Sources](#sources)
 * [inspiration](#inspiration)
 * [Sources](#author)
 * [Contact](#contact)
